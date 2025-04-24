@@ -1,6 +1,6 @@
 ---
 
-# Data Logger Unlimit Tech Solution
+# Data Logger UnlimitTech Solution
 
 ## Descrição do Projeto
 O **Monitor de Ambiente com Animação de Cavalo** é um sistema desenvolvido para Arduino que monitora as condições ambientais utilizando sensores de luz (LDR), temperatura e umidade. Ele exibe as leituras em um display LCD, aciona LEDs e um buzzer para alertas visuais e sonoros, e apresenta uma animação de um cavalo durante a inicialização.
