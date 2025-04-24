@@ -60,7 +60,7 @@ Siga as instruções abaixo para conectar os componentes ao Arduino:
 ### Configuração do Software
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/FelipeCattoSilva/CP1Datalogger.git
    ```
    
 2. **Abra o Código no Arduino IDE**:
